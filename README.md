@@ -10,10 +10,8 @@ Countries not included: Andorra and Switzerland.
 
 However, to make sure that your mobile phone stays in the Liechtenstein mobile provider network we recommend you to manually select the main provider in Liechtenstein, FL1. The reason for this is that due to the closeness of the border with Switzerland it can happen that you may pick up from time to time a Swiss network providers network.
 
-### Manual Setup - Android
+### Manual Setup Handbooks
 
-1. Go to settings
-[]()
-2. Select 
+1. Android ---- [Handbook Roaming Liechtenstein](/Documents/Handbook_Roaming_Liechtenstein_Android_2023_v001.pdf)
 
 
